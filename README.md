@@ -14,6 +14,8 @@ Step 4:-> Add git plugin to jenkins instance
 
 Step 5:-> configure the jenkins jobs to trigger the execution when a change is pushed to github
 
+Step 6:-> To add webhook in gitub to trigger automatic jenkins build
+
 
 
 command: git init - to initialize the repo
