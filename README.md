@@ -10,7 +10,7 @@ Step 2 :-> Create a jenkins Job to run the program
 
 Step 3 :-> Add a projects to git and github
 
-Step 4:-> Add git plugin
+Step 4:-> Add git plugin to jenkins instance
 
 Step 5:-> configure the jenkins jobs to trigger the execution when a change is pushed to github
 
