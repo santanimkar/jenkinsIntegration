@@ -16,6 +16,8 @@ Step 5:-> configure the jenkins jobs to trigger the execution when a change is p
 
 Step 6:-> To add webhook in gitub to trigger automatic jenkins build
 
+Step 7: Please make sure you installed latest gitHub plugin in jenkins.
+
 
 
 command: git init - to initialize the repo
