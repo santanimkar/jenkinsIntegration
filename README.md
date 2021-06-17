@@ -4,7 +4,7 @@ Jenkins setup
 
 -------
 
-Step 1 :-> create a java program or crate a git repo for java project
+Step 1 :-> create a java program or create a git repo for java project
 
 Step 2 :-> Create a jenkins Job to run the program
 
